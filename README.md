@@ -15,7 +15,7 @@ A 2D multiplayer fighting game built with Python and Pygame, featuring custom ch
 
 ---
 
-![Gameplay Screenshot](images/screenshot2.png)
+![Gameplay Screenshot](screenshot2.png)
 
 ## 🛠 Technologies Used
 
